@@ -18,7 +18,7 @@ function register() {
 
     localStorage.setItem("users", JSON.stringify(users));
 
-    alert("Account created!");
+    alert("Account ced!");
 }
 
 function login() {
